@@ -1,5 +1,5 @@
 # Tests for the tmc drivers
-CONFIG tmc.cfg
+CONFIG precise_corexy_homing.cfg
 DICTIONARY atmega2560.dict
 
 ; Start by homing the printer.
